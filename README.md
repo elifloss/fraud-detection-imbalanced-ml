@@ -8,7 +8,7 @@ Results
 ModelROC-AUCPR-AUCF1Random Forest (baseline)0.97710.86970.8743SMOTE + Random Forest0.98100.83360.6484Random Forest (balanced)0.97410.82410.8229Logistic Regression (baseline)0.95600.74330.7241SMOTE + Logistic Regression0.97000.72130.1061Logistic Regression (balanced)0.97140.71560.1105Gradient Boosting (balanced)0.59750.34550.5765
 Best model: Random Forest (baseline) at optimal threshold of 0.419 — Precision: 93.3% · Recall: 84.7% · F1: 88.8%
 Key finding: The baseline Random Forest outperforms SMOTE on F1 while being significantly faster to train. Class imbalance is better handled through threshold optimization than oversampling for this dataset.
-
+ 
 Visualizations
 Show Image
 Show Image
