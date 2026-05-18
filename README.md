@@ -44,4 +44,4 @@ Dataset
 Kaggle Credit Card Fraud Detection — 284,807 transactions, 492 fraud cases (0.172%). Features V1–V28 are PCA-transformed for confidentiality.
 
 Author
-Elijah Legall · Penn State Data Science · GitHub · LinkedInSonnet 4.6Claude is AI and can make mistakes. Please double-check responses.
+Elijah Legall · Penn State Data Science · GitHub · LinkedIn
